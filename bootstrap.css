@@ -1,0 +1,279 @@
+body {
+  margin: 50px;
+  padding: 50px;
+}
+.color-of-arrow {
+  color: rgb(169, 167, 167);
+  font-size: x-small;
+}
+.download-button {
+  background-color: rgb(195, 190, 190);
+  border-radius: 7%;
+  color: rgb(169, 24, 24);
+}
+.middle-icons {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  color: rgb(193, 190, 190);
+}
+.up-right-icons {
+  display: flex;
+  gap: 30px;
+  justify-content: end;
+  font-size: smaller;
+}
+.cat-icon {
+    position: absolute;
+    top: 45px;
+    left: 1230px;
+}
+.first-darkblu-line{
+    background-color: rgb(1, 1, 59);
+    height: 80px;
+    width: 100vw;
+    position: absolute;
+    top: 80px;
+    display: flex;
+    flex-direction: row;
+    border-top: 3px solid rgb(171, 13, 13);
+    
+}
+.position-of-button{
+  
+   position: absolute;
+   top: 40px;
+}
+.close-mark{
+    position: absolute;
+    top: 45px;
+    left: 1420px;
+}
+.blue-head{
+    color: white;
+    padding-left: 150px;
+    padding-top: 20px;
+}
+.menu-info{
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    font-size: larger;
+    color: white;
+    list-style-type: none;
+   gap: 30px;
+   font-size: medium;
+   padding-left: 500px;
+   padding-top: 30px;
+}
+.middle-picture{
+ height: 500px;
+ width: 1320px;
+ margin-top: 94.5px;
+ 
+
+ background-color: aqua;
+ 
+ 
+
+
+}
+.img-in-blue-back{
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  position: absolute;
+  left: 700px;
+  top: 270px;
+}
+.first-sentence-in-blue-background{
+  color: white;
+  position: absolute;
+  left: 630px;
+  top: 450px;
+}
+.star-and-his-elements{
+  position: absolute;
+left: 650px;
+top: 500px;
+color: white;
+}
+.second-sentence-in-blue{
+  position: absolute;
+  left: 630px;
+  top: 550px;
+  color: white;
+}
+.second-container-phrase{
+  position: absolute;
+  left: 650px;
+  top: 700px;
+  color: rgb(2, 2, 47);
+
+}
+.star2-and-his-elements{
+  position: absolute;
+  left: 650px;
+  top: 750px;
+  color: rgb(2, 2, 47);
+
+}
+.first-cake{
+  height: 200px;
+  width: 200px;
+}
+.second-cake{
+  height: 200px;
+  width: 200px;
+}
+.third-cake{
+  height: 200px;
+  width: 200px;
+  
+}
+.position-of-cakes{
+  position: absolute;
+  top: 800px;
+  left: 400px;
+}
+.second-row-first-cake{
+  height: 200px;
+  width: 200px;
+}
+.second-row-second-cake{
+  height: 200px;
+  width: 200px;
+}
+.second-row-third-cake{
+  height: 200px;
+  width: 200px;
+}
+.second-row-position-of-cakes{
+  position: absolute;
+  top: 1000px;
+  left: 400px;
+}
+.last-blue-part{
+  height: 350px;
+ width: 1320px;
+ background-color: aqua;
+ position: absolute;
+ top: 1300px;
+}
+.second-blue-elements{
+position: absolute;
+top: 1350px;
+left: 670px;
+font-weight: bolder;
+font-size:xx-large;
+
+}
+.star3-and-his-elements{
+  position: absolute;
+top: 1400px;
+left: 650px;
+}
+.col-blue{
+  position: absolute;
+  top: 1450px;
+  left: 340px;
+  
+}
+.textcols {
+	white-space: nowrap;
+}
+.textcols-item {
+	white-space: normal;	
+	display: inline-block;
+	width: 28%;
+	vertical-align: top;
+	background: aqua;
+}
+.textcols .textcols-item:first-child {
+	margin-right: 4%;
+}
+
+.last-blue-part{
+  height: 150px;
+  width: 1320px;
+  position: absolute;
+  top: 1700px;
+}
+.download-button{
+  margin-left: 500px;
+  height: 35px;
+  width: 200px;
+  border: 1px solid white;
+
+  background-color: aqua;
+  margin-top: 5px;
+  border-radius: 10%;
+}
+.download-icon{
+  color: white;
+}
+.last-blue-element-contact-me{
+  position: absolute;
+  top: 1900px;
+  left: 600px;
+}
+.star4-and-his-elements{
+  margin-left: 10px;
+}
+.info{
+  position: absolute;
+  top: 2000px;
+  width: 400px;
+  left: 500px;
+}
+.send-button{
+  position: absolute;
+  top: 2280px;
+  border: 1px solid aqua;
+  background-color: aqua;
+  color: white;
+  border-radius: 10%;
+  left: 500px;
+}
+.footer-first-part{
+  height: 250px;
+  width: 1320px;
+  background-color: rgb(28, 25, 68);
+  position: absolute;
+  top: 2400px;
+}
+.first-part{
+  color: white;
+  margin-left: 200px;
+  margin-top: 70px;
+}
+.second-part{
+  position: absolute;
+  color: white;
+  top: 2470px;
+  left: 650px;
+}
+.last-part{
+  position: absolute;
+  color: white;
+  top: 2470px;
+  left: 950px;
+}
+.color-of-text{
+  color: green;
+}
+.last-black-part{
+  height: 50px;
+  width: 1320px;
+  background-color: black;
+  position: absolute;
+  top: 2600px;
+  right: 30px;
+}
+.footer-text{
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
